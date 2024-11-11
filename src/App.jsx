@@ -34,7 +34,7 @@ function App() {
         <NavbarContent>
           <NavbarBrand>
             <Link href="" className="text-xl font-bold text-white">
-              RPL 2026
+              RPL 2023
             </Link>
           </NavbarBrand>
         </NavbarContent>
@@ -122,8 +122,8 @@ function App() {
                 Rekayasa Perangkat Lunak SMKN 1 Cipeundeuy
               </h1>
               <p className="text-sm font-normal text-white opacity-80 sm:text-lg sm:w-96">
-                Ini adalah Website Resmi Kelas Rekayasa Perangkat Lunak Angkatan
-                2026.
+                Ini adalah Website Resmi Kelas Rekayasa Perangkat Lunak
+                Angakatan 2023.
               </p>
             </div>
             <div className="flex justify-center items-center mt-6">
@@ -334,9 +334,9 @@ function App() {
       <footer id="footer" className="bg-[#18181b] p-5">
         <div className="flex flex-col gap-10">
           <div>
-            <h1 className="text-2xl font-semibold text-white">RPL 2026</h1>
+            <h1 className="text-2xl font-semibold text-white">RPL 2023</h1>
             <p className="text-sm font-normal text-white opacity-80">
-              RPL Angkatan 2026
+              RPL Angkatan 2023
             </p>
           </div>
           <div className="flex gap-10">
@@ -391,7 +391,7 @@ function App() {
           </div>
           <div className="flex justify-center items-center">
             <p className="text-xs font-normal text-white opacity-80">
-              &copy; 2024 RPL 2026 NECHY
+              &copy; 2024 RPL 2023 NECHY
             </p>
           </div>
         </div>
